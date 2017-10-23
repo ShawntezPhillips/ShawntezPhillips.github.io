@@ -1,0 +1,56 @@
+.bg-jumbo {
+    background-image: url("../Images/jumbo3dark.png");
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    width: auto;
+}
+
+.bg-header {
+    background-color: rgba(255,255,255);
+}
+
+
+.introduction {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    bottom: auto;
+    right: auto;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -o-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    text-align: center;
+    width: 100%;
+    text-shadow: 5px 5px rgba(0, 0, 0,);
+}
+
+.margin {
+    margin-top: 110px;
+    margin-bottom: 110px;
+}
+
+.text-head1 {
+    color: floralwhite;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.margin2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.margin3 {
+    margin-top: 5px;
+}
+
+.navbarjumbo {
+    top: 100%
+}
