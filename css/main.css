@@ -58,3 +58,12 @@
 .margin4 {
     margin-bottom: 10px;
 }
+
+.breadcrumb {
+    
+    background: rgba(245, 245, 245, 0); 
+    border: 0px solid rgba(245, 245, 245, 0);
+    border-radius: 0px; 
+    display: block;
+
+}
